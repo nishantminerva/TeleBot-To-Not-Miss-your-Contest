@@ -15,7 +15,7 @@
     <br>
     Click <a href="https://telegram.me/contestsalert_bot">here</a> to add it to Telegram.
     <br />
-    <a href="https://github.com/nishantminerva/TeleBot-To-Not-Miss-your-Contest-"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/nishantminerva/TeleBot-To-Not-Miss-your-Contest"><strong>Explore the docs »</strong></a>
     <br />
     .
     <a href="https://github.com/nishantminerva/TeleBot-To-Not-Miss-your-Contest/issues">Report Bug</a>
