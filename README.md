@@ -3,9 +3,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center" border-radius=50%>
-  <a href="https://github.com/nishantminerva/TeleBot--To-Not-Miss-your-Contest">
+  <a href="https://github.com/nishantminerva/TeleBot-To-Not-Miss-your-Contest">
       <img src="./bot.jpg" alt="Logo" width="150">
   </a>
+  
 
   <h3 align="center"><a href="https://telegram.me/contestsalert_bot">CPC_Bot</a></h3>
 
@@ -14,12 +15,12 @@
     <br>
     Click <a href="https://telegram.me/contestsalert_bot">here</a> to add it to Telegram.
     <br />
-    <a href="https://github.com/nishantminerva/TeleBot--To-Not-Miss-your-Contest-"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/nishantminerva/TeleBot-To-Not-Miss-your-Contest-"><strong>Explore the docs »</strong></a>
     <br />
     .
-    <a href="https://github.com/nishantminerva/TeleBot--To-Not-Miss-your-Contest/issues">Report Bug</a>
+    <a href="https://github.com/nishantminerva/TeleBot-To-Not-Miss-your-Contest/issues">Report Bug</a>
     <b><br>·
-    <a href="https://github.com/nishantminerva/TeleBot--To-Not-Miss-your-Contest/issues">Request Feature</a>
+    <a href="https://github.com/nishantminerva/TeleBot-To-Not-Miss-your-Contest/issues">Request Feature</a>
   </p>
 </p>
 
@@ -70,7 +71,7 @@ Clone the repo to get started with the bot.
  
 1. Clone the repo
 ```sh
-git clone https://github.com/nishantminerva/TeleBot--To-Not-Miss-your-Contest.git
+git clone https://github.com/nishantminerva/TeleBot-To-Not-Miss-your-Contest.git
 cd TeleBot-To-Not-Miss-your-Contest
 ```
 2. Installing required pip packages
